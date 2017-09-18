@@ -1,8 +1,17 @@
 RNAseq_tk
 =========
 
-Toolkit for RNA-seq data processing and analysis
+Utilities for RNA-seq data processing and analysis. 
 
-(1) Count unique alignments in a SAM file
+* Count unique alignments 
 
-Usage: perl countChar_uniqueID.pl [SAM file]
+Unique alignments
+---------
+
+`countChar` is a script to count unique alignments. 
+
+`Usage: perl countChar_uniqueID.pl <SAM file>`
+
+Miscellaneous utilities
+
+Check back soon for more scripts. 
